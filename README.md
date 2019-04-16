@@ -10,7 +10,7 @@ If you want to see the ***original author's code***, pls refer to this github [l
 ## Usage : 
 
 ```
-import  SKNet
+import SKNet
 import tensorflow.contrib.slim as slim
 
 ...
