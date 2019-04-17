@@ -28,9 +28,11 @@ If you want to see the ***original author's code***, pls refer to this github [l
 
 ## SKNet Block Structure :
 
-[![][imgurl]]
+![][imgurl]
 
-[imgurl]: <https://github.com/bravotty/SKNet-tensorflow/tree/master/img/img1.png>
+
+
+[imgurl]: <https://github.com/bravotty/SKNet-tensorflow/raw/master/img/img1.png>
 
 ## Usage : 
 
