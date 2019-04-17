@@ -28,7 +28,9 @@ If you want to see the ***original author's code***, pls refer to this github [l
 
 ## SKNet Block Structure :
 
-![Selective Kernel Convolution](F:\githubRemote\SKNet-tensorflow\img\img1.png)
+[![][imgurl]]
+
+[imgurl]: <https://github.com/bravotty/SKNet-tensorflow/tree/master/img/img1.png>
 
 ## Usage : 
 
