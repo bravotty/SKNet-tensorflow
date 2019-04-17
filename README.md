@@ -76,6 +76,6 @@ Create a [pull request](<https://github.com/bravotty/SKNet-tensorflow/pulls>) or
 
 
 
-## License:
+## License :
 
 [The MIT License](<https://github.com/bravotty/SKNet-tensorflow/blob/master/LICENSE>)
