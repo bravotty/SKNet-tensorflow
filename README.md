@@ -21,8 +21,8 @@ If you want to see the ***original author's code***, pls refer to this github [l
 ## Requirements :
 
 * Python >= 3.6
-* Tensorflow >= 1.9.0
 * Tflearn >= 0.3.2
+* Tensorflow >= 1.9.0
 
 
 
