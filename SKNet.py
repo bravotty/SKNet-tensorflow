@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Author : tyty
-@Date   : 2018.4.16
+@Date   : 2019.4.16
 @E-mail : bravotty@protonmail.com
 """
 import tensorflow as tf
