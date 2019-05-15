@@ -16,7 +16,7 @@ def SKConv(input, M, r, L=32, stride=1, is_training=True):
         for i in range(M):
             net = slim.conv2d(net, input_feature, [3+i*2, 3+i*2], rate=1+i, stride=stride)
             net = slim.batch_norm(net, decay=0.9, center=True, scale=True, epsilon=1e-5,
-                                  updates_collections=tf.GraphKeys.UPDATE_OPS ,is_training=is_training)
+                                  updates_collections=tf.GraphKeys.UPDATE_OPS, is_training=is_training)
             net = tf.nn.relu(net)
             if i == 0:
                 fea_U = net
