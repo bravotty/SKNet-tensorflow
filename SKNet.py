@@ -22,7 +22,7 @@ def SKConv(input, M, r, L=32, stride=1, is_training=True):
                 fea_U = net
             else:
                 fea_U = tf.add(fea_U, net)
-        gap = tflearn.global_avg_pool(net)
+        gap = tflearn.global_avg_pool(fea_U)
         fc  = slim.fully_connected(gap, d, activation_fn=None)
         fcs = fc
         for _ in range(M):
